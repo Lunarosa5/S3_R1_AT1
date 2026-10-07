@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(202, 228, 233);
+}
+
+#titulo-principal {
+    background-color: rgb(72, 111, 169);
+    color: rgb(241, 238, 234);
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 0;
+}
+
+.titulo-secao {
+    background-color: rgb(123, 159, 212);
+    color: rgb(241, 238, 234);
+    border-radius: 8px;
+    padding: 8px;
+    margin-top: 20px;
+}
+
+.texto {
+    background-color: white;
+    border-radius: 8px;
+    padding: 15px;
+    color: rgb(52, 44, 34);
+}
